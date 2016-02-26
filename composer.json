@@ -1,11 +1,11 @@
 {
-    "name": "octavioalapizco/barcode",
+    "name": "clickbus-mexico/bcg-barcode",
     "description": "Barcode Generator.",
     "license": "MIT",
     "authors": [
         {
-            "name": "Victor Aguilar",
-            "email": "victor.aguilar@clickbus.com"
+            "name": "Octavio Alapizco",
+            "email": "cesar.bibriesca@clickbus.com"
         }
     ],
     "autoload": {
