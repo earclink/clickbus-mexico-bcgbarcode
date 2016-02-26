@@ -1,0 +1,16 @@
+{
+    "name": "octavioalapizco/barcode",
+    "description": "Barcode Generator.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Victor Aguilar",
+            "email": "victor.aguilar@clickbus.com"
+        }
+    ],
+    "autoload": {
+	"psr-0": {
+            "": ["class/"]
+        }	
+    }
+}
